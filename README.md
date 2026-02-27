@@ -53,7 +53,7 @@ I’m open to **student-friendly, interesting collaborations**, especially:
 - math / physics / CS-related ideas
 
 📫 **Contact:**  
-**urvishlanje25@gmail.com**
+**urvishlanje25@gmail.com** 
 **devNull-bootloader.github.io**
 
 (Please note: I’m still a student, so I mainly collaborate on intermediate leveled and open projects, that don't require long daily sessions.)
