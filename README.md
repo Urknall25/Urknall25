@@ -59,7 +59,7 @@ I’m open to **student-friendly, interesting collaborations**, especially:
 - math / physics / CS-related ideas
 
 📫 **Contact:**  
-**urvishlanje25@gmail.com**  
+**urvish.l1@schule.bremen.de**  
 
 🌐 **Website:**  
 **[devnull-bootloader.github.io](https://devnull-bootloader.github.io)**
